@@ -55,12 +55,10 @@ button{
 	border-radius: 40px;
 }
 @media(max-width: 700px){
-	input{
-		padding: auto;	
-	}
-	button{
-		padding: auto;	
 	
+	button{
+	padding: 12px 15px;	
+        font-size: 14px;
 	}
 }
 ul li{
