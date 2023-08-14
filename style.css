@@ -54,6 +54,15 @@ button{
 	cursor: pointer;
 	border-radius: 40px;
 }
+@media(max-width: 700px){
+	input{
+		padding: auto;	
+	}
+	button{
+		padding: auto;	
+	
+	}
+}
 ul li{
 	list-style: none;
 	font-size: 17px;
